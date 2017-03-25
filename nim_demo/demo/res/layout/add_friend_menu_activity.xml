@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/GreyWhite"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:elevation="0dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:titleTextAppearance="@style/Toolbar.TitleText">
+
+            <include
+                layout="@layout/nim_action_bar_right_clickable_tv"
+                android:visibility="gone" />
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/line_divider" />
+    <!--android:background="@drawable/nim_blue_edit_text_bg"-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/GreyWhite" />
+        <!--夺取焦点-->
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="0dp" />
+
+        <android.support.v7.widget.SearchView
+            android:id="@+id/search"
+            style="@style/MySearchViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:queryHint="手机号" />
+
+        <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="1dp"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:background="@drawable/line_divider" />-->
+
+        <com.netease.nim.uikit.common.ui.widget.ClearableEditTextWithIcon
+            android:id="@+id/search_friend_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@null"
+            android:drawableBottom="@drawable/line_et"
+            android:hint="请输入昵称或账号"
+            android:inputType="text"
+            android:padding="5dp"
+            android:paddingBottom="15dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:textColor="@color/color_black_333333"
+            android:textColorHint="@color/contact_letter_idx_bg"
+            android:visibility="gone" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="30dp"
+            android:layout_marginTop="10dp"
+            android:drawablePadding="5dp"
+            android:drawableRight="@drawable/ic_qrcode"
+            android:gravity="center"
+
+            android:text="我的二维码" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_group_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/img_group_head"
+            android:text="面对面建群"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_group_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_group_title"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/img_group_head"
+            android:text="与身边的朋友进入同一个群聊" />
+
+        <ImageView
+            android:id="@+id/img_group_head"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:src="@drawable/add_contact" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/img_group_head"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/GreyWhite" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/layout_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/img_contact_head"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/add_friend" />
+
+        <TextView
+            android:id="@+id/tv_contact_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/img_contact_head"
+            android:text="手机联系人"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_menu_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_contact_title"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/img_contact_head"
+            android:text="添加或邀请通讯录中的朋友" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_qrcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/img_qrCode_head"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/add_qrcode_sel" />
+
+        <TextView
+            android:id="@+id/tv_qrCode_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+
+            android:layout_toRightOf="@+id/img_qrCode_head"
+            android:text="扫一扫"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_qrCode_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_qrCode_title"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/img_qrCode_head"
+            android:background="@color/white"
+            android:text="扫描二维码名片" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/img_qrCode_head"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/GreyWhite" />
+    </RelativeLayout>
+
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:background="@color/gray7"-->
+    <!--android:paddingBottom="5dp"-->
+    <!--android:paddingLeft="10dp"-->
+    <!--android:paddingTop="10dp"-->
+    <!--android:text="新的朋友" />-->
+
+    <!--<android.support.v7.widget.RecyclerView-->
+    <!--android:id="@+id/tv_friend"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content" />-->
+</LinearLayout>

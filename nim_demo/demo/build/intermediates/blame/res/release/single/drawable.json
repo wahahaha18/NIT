@@ -1,0 +1,1670 @@
+[
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_unread_news_icon_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_audio_record_icon_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_audio_record_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg_pressed.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_add_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_member_add_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_audio_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_icon_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_mute_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_speaker_icon_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_speaker_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_speaker_icon_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_speaker_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cancel_record_red_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\skin_global_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\skin_global_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_right.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_audio_animation_list_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_nest_dark_logo.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_actionbar_nest_dark_logo.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\splash_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_blue_bg_pressed.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_blue_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_small_white.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_small_white.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_red_round_button_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_red_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_square.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_portrait_mask_square.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_add_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_member_add_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_white_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\g_white_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_round_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_bar_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_red_round_button_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_red_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_top_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\g_round_box_top_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_refuse_bg_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_refuse_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_video_chat_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_video_chat_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_logut_bg_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_logut_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_gray_edit_text_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_gray_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_refuse_bg_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_refuse_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_easy_edit_text_dialog_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_easy_edit_text_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_add_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_add_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_icon_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_mute_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_align_bottom_green_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_round_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_view_pager_indicator_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_white_round_button_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\nim_white_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_create_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_tip_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_foreground.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_bar_foreground.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_semitransparency_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_semitransparency_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_unread_news_icon_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_bottom_logout_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_bottom_logout_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_audio_record_icon_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_audio_record_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\align_bottom_green_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\splash_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_photo_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_photo_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\register_right_top_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\register_right_top_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\skin_global_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\skin_global_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_speaker_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_mute_speaker_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_ic_close_yellow_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\g_ic_close_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_item_blue_background_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_item_blue_background_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\video_audio_mode_switch_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\video_audio_mode_switch_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_receive_bg_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_receive_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_file_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_file_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_send_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_bottom_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\g_round_box_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\white_edit_text_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\white_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_audio_record_icon_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_audio_record_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_delete_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_member_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_delete_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\notification_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_mute_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_bg_accept.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\btn_bg_accept.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_tip_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\dot_red.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\dot_red.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_actionbar_black_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\white_edit_text_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\white_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_item_background_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_item_background_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_blue_edit_text_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_blue_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo_space.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_dark_logo_space.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_search_view_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_search_view_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_video_play_icon_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_delete_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\notification_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_white_logo_space.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_white_logo_space.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_selecter.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\list_item_bg_selecter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_receive_bg_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_receive_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_delete_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_member_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_red_long_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\g_red_long_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\chat_room_back_arrow_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\chat_room_back_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_location_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_location_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_right_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_audio_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_file_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_file_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\register_tip_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\register_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_item_blue_background_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_item_blue_background_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\press_mask_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\press_mask_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_actionbar_black_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_align_bottom_green_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\align_bottom_green_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_location_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\btn_location_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_blue_bg_pressed.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_blue_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_square.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_portrait_mask_square.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo_space.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_dark_logo_space.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_video_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_video_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_view_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_left_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_left_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_blue_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_blue_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_guess_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_guess_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\register_right_top_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\register_right_top_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_semitransparency_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_semitransparency_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\line_et.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\line_et.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_location_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\btn_location_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_round_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\video_audio_mode_switch_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\video_audio_mode_switch_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_white_round_button_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\nim_white_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_refuse_bg_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_refuse_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_blue_edit_text_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_blue_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\chat_room_back_arrow_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\chat_room_back_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_bar_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_dark_logo.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_foreground.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_bar_foreground.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_speaker_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_mute_speaker_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_align_bottom_green_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_delete_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\notification_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\register_tip_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\register_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\sample_footer_loading.png",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.6.3\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_video_record_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_video_record_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cancel_record_red_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_nest_dark_logo.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_actionbar_nest_dark_logo.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_dark_logo.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_red_round_button_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_red_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_top_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\g_round_box_top_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_contact_list_item_selecter.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_blue_edit_text_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_blue_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_white_logo_space.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_white_logo_space.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\nim_play_btn_select.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_audio_chat_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_audio_chat_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_recent_contact_sticky_selecter.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_location_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_location_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_switch_camera_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_switch_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\bg_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\bg_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\align_bottom_green_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_receive_bg_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_receive_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_semitransparency_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_semitransparency_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_easy_edit_text_dialog_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_easy_edit_text_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_close_camera_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_close_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_add_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_add_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_view_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_round.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_left_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_left_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_unread_news_icon_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_close_camera_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_close_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_logut_bg_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_logut_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_video_chat_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_video_chat_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_add_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_member_add_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_bg_login.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\btn_bg_login.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_gray_edit_text_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_gray_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_create_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg_pressed.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_bottom_logout_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_bottom_logout_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_red_long_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\g_red_long_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_photo_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_photo_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_switch_camera_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_switch_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_switch_camera_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_switch_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\skin_global_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\skin_global_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_file_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_file_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_contact_list_item_selecter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_guess_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_guess_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_snapchat_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_snapchat_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_item_background_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_item_background_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_small_white.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_small_white.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_send_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\press_mask_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\press_mask_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_delete_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_member_delete_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\g_round_box_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_search_view_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_search_view_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_normal_layer_list.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_sticker_button_background_normal_layer_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_recent_contact_sticky_selecter.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_location_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_location_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_video_record_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_video_record_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_snapchat_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_snapchat_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_rts_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_rts_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle_normal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_audio_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_bottom_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\g_round_box_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_round.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_video_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_video_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_small_white.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_small_white.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_white_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\g_white_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_video_record_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_video_record_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\video_audio_mode_switch_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\video_audio_mode_switch_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_rts_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_rts_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_icon_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_mute_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_blue_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_blue_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\nim_play_btn_select.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_right_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_round.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_nest_dark_logo.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_actionbar_nest_dark_logo.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_video_play_icon_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_blue_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_blue_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_speaker_icon_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_speaker_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_square.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_portrait_mask_square.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_white_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\g_white_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_white_round_button_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\nim_white_round_button_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_location_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\btn_location_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_ic_close_yellow_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\g_ic_close_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\sample_footer_loading_progress.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.6.3\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_normal_layer_list.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_sticker_button_background_normal_layer_list.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\chat_room_back_arrow_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\chat_room_back_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_left_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_left_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_video_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_video_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\g_round_box_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_video_chat_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_video_chat_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo_space.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_dark_logo_space.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_gray_edit_text_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_gray_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_list_item_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\g_round_box_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_search_view_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_search_view_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\register_right_top_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\register_right_top_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_bg_refuse.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\btn_bg_refuse.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_snapchat_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_snapchat_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_btn_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\dialog_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg_pressed.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\register_tip_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\register_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_selecter.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\list_item_bg_selecter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_actionbar_black_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_top_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\g_round_box_top_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_recent_contact_sticky_selecter.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_audio_chat_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\message_plus_audio_chat_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_contact_list_item_selecter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_send_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_red_long_btn_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\g_red_long_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_tip_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_bg_add.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\btn_bg_add.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_dark_logo.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_close_camera_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_close_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_team_create_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\nim_play_btn_select.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_blue_bg_pressed.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\actionbar_blue_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_item_background_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_item_background_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_cameras_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\avchat_mute_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_photo_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_plus_photo_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cancel_record_red_bg.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\splash_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_bg_edittext_rectangle_normal.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_mute_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_view_pager_indicator_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_bottom_logout_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_bottom_logout_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_item_blue_background_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\actionbar_item_blue_background_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_logut_bg_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\avchat_logut_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_speaker_bg.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\avchat_mute_speaker_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_view_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_foreground.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_bar_foreground.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_cameras_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_progress_bar_background.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_rts_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_rts_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_view_pager_indicator_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\press_mask_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\press_mask_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_normal_layer_list.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_sticker_button_background_normal_layer_list.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_right.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_audio_animation_list_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_bg_selecter.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\list_item_bg_selecter.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_guess_selector.xml",
+        "source": "E:\\nim_demo\\demo\\res\\drawable\\message_plus_guess_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_item_right_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_round_box_bottom_bg.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\g_round_box_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_add_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_message_button_bottom_add_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_white_logo_space.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\actionbar_white_logo_space.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_easy_edit_text_dialog_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_easy_edit_text_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_video_play_icon_selector.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\white_edit_text_bg.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\white_edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_audio_chat_selector.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\drawable\\message_plus_audio_chat_selector.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_right.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_audio_animation_list_right.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\g_ic_close_yellow_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\drawable\\g_ic_close_yellow_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\drawable\\nim_cameras_selector.xml"
+    }
+]

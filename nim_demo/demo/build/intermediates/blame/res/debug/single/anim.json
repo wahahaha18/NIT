@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\rotaterepeat.xml",
+        "source": "E:\\nim_demo\\demo\\res\\anim\\rotaterepeat.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\rotaterepeat.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\anim\\rotaterepeat.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\rotaterepeat.xml",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\anim\\rotaterepeat.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\rotaterepeat.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\anim\\rotaterepeat.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

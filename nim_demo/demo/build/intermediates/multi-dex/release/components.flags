@@ -1,0 +1,309 @@
+-injars 'E:\workspace\nim_demo\demo\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'E:\workspace\nim_demo\demo\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'E:\AndroidStudio\sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'E:\workspace\nim_demo\demo\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class com.aqtx.app.NimApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.aqtx.app.main.activity.WelcomeActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.MainActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.MultiportActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.login.LoginActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.AboutActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.SetPrivacyActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.SettingsActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.NoDisturbActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.AddFriendActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.AddContactActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.AddFriendMenuActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.UserProfileActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.UserProfileSettingActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.UserProfileEditItemActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.BlackListActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.file.browser.FileBrowserActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.SystemMessageActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.CustomNotificationActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.session.activity.MessageHistoryActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.session.activity.MessageInfoActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.team.activity.AdvancedTeamSearchActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.team.activity.AdvancedTeamJoinActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.TeamListActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.GlobalSearchActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.GlobalSearchDetailActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.main.activity.GlobalSearchDetailActivity2 {
+    <init>();
+}
+
+-keep class com.aqtx.app.session.activity.WatchSnapChatPictureActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.location.activity.LocationAmapActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.location.activity.NavigationAmapActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.avchat.activity.AVChatActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.rts.activity.RTSActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.session.search.SearchMessageActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.session.search.DisplayMessageActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.chatroom.activity.ChatRoomActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.avchat.activity.AVChatSettingsActivity {
+    <init>();
+}
+
+-keep class com.netease.nimlib.service.NimService {
+    <init>();
+}
+
+-keep class com.netease.nimlib.service.NimService$Aux {
+    <init>();
+}
+
+-keep class com.netease.nimlib.service.NimReceiver {
+    <init>();
+}
+
+-keep class com.netease.nimlib.service.ResponseReceiver {
+    <init>();
+}
+
+-keep class com.aqtx.app.receiver.CustomNotificationReceiver {
+    <init>();
+}
+
+-keep class com.netease.nimlib.receiver.RTSBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.netease.nimlib.receiver.IncomingCallReceiver {
+    <init>();
+}
+
+-keep class com.journeyapps.barcodescanner.CaptureActivity {
+    <init>();
+}
+
+-keep class com.netease.cosine.core.CosineService {
+    <init>();
+}
+
+-keep class com.netease.cosine.target.CosineReceiver {
+    <init>();
+}
+
+-keep class com.aqtx.app.login.ModifyActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.RegisterActivity {
+    <init>();
+}
+
+-keep class com.aqtx.app.contact.activity.QrCodeActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.session.activity.P2PMessageActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.session.activity.TeamMessageActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.NormalTeamInfoActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.AdvancedTeamInfoActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.AdvancedTeamMemberActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.AdvancedTeamAnnounceActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.AdvancedTeamMemberInfoActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.AdvancedTeamNicknameActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.AdvancedTeamCreateAnnounceActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.team.activity.TeamPropertySettingActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.contact_selector.activity.ContactSelectActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.media.picker.activity.PickImageActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.media.picker.activity.CropImageActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.media.picker.activity.PickerAlbumActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.media.picker.activity.PickerAlbumPreviewActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromLocalActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.media.picker.activity.PreviewImageFromCameraActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.session.activity.CaptureVideoActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.session.activity.WatchVideoActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.session.activity.WatchMessagePictureActivity {
+    <init>();
+}
+
+-keep class com.netease.nim.uikit.common.util.test.MassMessageActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

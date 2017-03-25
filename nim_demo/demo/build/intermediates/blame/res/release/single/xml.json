@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\xml\\nrtc_setting_pref.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\xml\\nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\xml\\nrtc_setting_pref.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\xml\\nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\xml\\nrtc_setting_pref.xml",
+        "source": "E:\\nim_demo\\demo\\res\\xml\\nrtc_setting_pref.xml"
+    }
+]

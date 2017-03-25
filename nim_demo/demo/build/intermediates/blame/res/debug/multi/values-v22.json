@@ -1,0 +1,427 @@
+[
+    {
+        "outputFile": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 86,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "C:\\Users\\y11621546\\.android\\build-cache\\f94ccf8336cf820f73ade50bfa5bf10314ab501a\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 86,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 86,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 86,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 74,
+                        "endOffset": 125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 86,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 86,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "C:\\Users\\sun0002\\.android\\build-cache\\0d1ce7f452d4333a1d2d5447b0c2f9e337dc4d64\\output\\res\\values-v22\\values-v22.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 896
+                    }
+                }
+            }
+        ]
+    }
+]

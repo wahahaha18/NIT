@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tl="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/skin_global_bg">
+
+    <com.aqtx.app.common.ui.viewpager.PagerSlidingTabStrip
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/pager_sliding_tab_strip_height"
+        android:background="@drawable/skin_global_bg"
+        android:visibility="gone" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/main_tab_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_bottom"
+        android:layout_below="@+id/tabs" />
+
+    <LinearLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="@drawable/line_divider" />
+
+        <com.flyco.tablayout.CommonTabLayout
+            android:id="@+id/tl_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="#ffffff"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            app:tl_iconHeight="23dp"
+            app:tl_iconWidth="23dp"
+            app:tl_indicator_color="#2C97DE"
+            app:tl_indicator_height="0dp"
+            app:tl_textSelectColor="#2C97DE"
+            app:tl_textUnselectColor="#66000000"
+            app:tl_textsize="12sp"
+            app:tl_underline_color="#DDDDDD"
+            app:tl_underline_height="1dp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

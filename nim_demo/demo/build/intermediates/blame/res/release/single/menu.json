@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\message_activity_more_menu.xml",
+        "source": "E:\\nim_demo\\demo\\res\\menu\\message_activity_more_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\global_search_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\menu\\global_search_menu.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\notification_menu.xml",
+        "source": "E:\\nim_demo\\demo\\res\\menu\\notification_menu.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\custom_notification_activity_menu.xml",
+        "source": "E:\\nim_demo\\demo\\res\\menu\\custom_notification_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\contacts_search_menu.xml",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\custom_notification_activity_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\menu\\custom_notification_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\main_activity_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\notification_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\menu\\notification_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\contacts_search_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\rts_activity_menu.xml",
+        "source": "E:\\nim_demo\\demo\\res\\menu\\rts_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\global_search_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\menu\\global_search_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\custom_notification_activity_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\menu\\custom_notification_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\contacts_search_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\menu\\contacts_search_menu.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\main_activity_menu.xml",
+        "source": "E:\\nim_demo\\demo\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\message_activity_more_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\menu\\message_activity_more_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\rts_activity_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\menu\\rts_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\global_search_menu.xml",
+        "source": "E:\\nim_demo\\demo\\res\\menu\\global_search_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\main_activity_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\notification_menu.xml",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\menu\\notification_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\message_activity_more_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\menu\\message_activity_more_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\release\\menu\\rts_activity_menu.xml",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\menu\\rts_activity_menu.xml"
+    }
+]

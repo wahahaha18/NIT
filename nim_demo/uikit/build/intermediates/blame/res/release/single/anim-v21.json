@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\84bee5f969fedd07e1369c469f0d3d42dcf2fd79\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Projects\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Projects\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\nim_demo\\uikit\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\f1d5f59350f61b2f6654ba87ca5771343f3b0b10\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

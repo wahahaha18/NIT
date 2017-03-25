@@ -1,0 +1,35 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    apply from: 'script.gradle', to: buildscript
+    repositories {
+        dependencies {
+            classpath 'com.networkbench.newlens.agent.android:agent-gradle-plugin:2.5.0'
+        }
+
+
+    }
+
+}
+
+allprojects {
+    repositories {
+//        maven {
+//        url 'http://maven.oschina.net/content/groups/public/'
+//    }
+        jcenter()
+        maven { url "https://jitpack.io" }
+
+    }
+}
+
+ext {
+    compileSdkVersion = 21
+    buildToolsVersion = '23.0.2'
+    minSdkVersion = 9
+    targetSdkVersion = 19
+    versionCode = 27
+    versionName = '2.8.0'
+    targetCompatibility = 1.7
+    sourceCompatibility = 1.7
+}

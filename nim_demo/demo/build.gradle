@@ -1,0 +1,101 @@
+apply plugin: 'com.android.application'
+apply plugin: 'newlens'
+
+def getGitVersion() {
+    try {
+        return 'git rev-parse --short HEAD'.execute().text.trim()
+    } catch (Throwable th) {
+        return "";
+    }
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion buildToolsVer
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "com.aqtx.app"
+        minSdkVersion 14
+        targetSdkVersion 23
+        buildConfigField "String", "GIT_REVISION", "\"${getGitVersion()}\""
+        buildConfigField "String", "BUILD_DATE", "\"${new Date().toLocaleString()}\"";
+        multiDexEnabled true
+    }
+
+
+    signingConfigs {
+        release {
+            storeFile file('release.keystore')
+            storePassword 'thisiskeystorepassword'
+            keyAlias 'nim_demo'
+            keyPassword 'thisiskeypassword'
+        }
+    }
+
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.debug
+            manifestPlaceholders = [AMAP_KEY: "09fd4efd3e28e9bf1f449ecec7d34bfe"]
+        }
+
+        release {
+//            minifyEnabled true
+//            zipAlignEnabled true
+            proguardFile('proguard.cfg')
+            signingConfig signingConfigs.release
+            manifestPlaceholders = [AMAP_KEY: "ee20324fba1c7f4ad7a4a207e7f08e8d"]
+        }
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res', 'res-avchat', 'res-chatroom']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs', 'libs-sdk']
+
+        }
+
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    dexOptions {
+        incremental true
+        preDexLibraries false
+        jumboMode true
+        javaMaxHeapSize "4g"
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+
+    buildToolsVersion '25.0.0'
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile project(path: ':uikit')
+    compile 'com.zhy:okhttputils:2.6.2'
+    //    compile 'com.alibaba:fastjson:1.2.17'
+    compile 'com.networkbench.newlens.agent.android:nbs.newlens.agent:2.5.0'
+    compile files('libs/android-viewbadger.jar')
+    compile 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.0@aar'
+    compile 'com.android.support:appcompat-v7:25.1.0'
+    compile 'com.android.support:recyclerview-v7:25.1.0'
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.6.3'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'jp.wasabeef:glide-transformations:2.0.1'
+    compile 'com.orhanobut:logger:1.15'
+    compile 'com.journeyapps:zxing-android-embedded:3.4.0'
+
+}

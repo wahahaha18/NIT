@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "E:\\nim_demo\\demo\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "E:\\nim_demo\\demo\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "D:\\nim_demo\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\y11621546\\.android\\build-cache\\c4869b9df5f4c04c8242fbe99f0cb0fe9eb2c543\\output\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\sun0002\\.android\\build-cache\\4419630f8d567b3e5018621fa67cc88062e1e72a\\output\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "E:\\workspace\\nim_demo\\uikit\\build\\intermediates\\bundles\\default\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "E:\\nim_demo\\demo\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "E:\\Projects\\nim_demo\\demo\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "E:\\nim_demo\\demo\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "E:\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\raw\\avchat_peer_busy.mp3"
+    },
+    {
+        "merged": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "E:\\Projects\\nim_demo\\demo\\build\\intermediates\\exploded-aar\\nim_demo\\uikit\\unspecified\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "E:\\nim_demo\\demo\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "E:\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "E:\\nim_demo\\demo\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "D:\\nim_demo\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "D:\\nim_demo\\nim_demo\\demo\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "E:\\workspace\\nim_demo\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "E:\\workspace\\nim_demo\\demo\\res\\raw\\avchat_no_response.mp3"
+    }
+]
